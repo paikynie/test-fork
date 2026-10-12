@@ -1,0 +1,12 @@
+# working dirs (tidak di-push)
+jadx_out/
+full_decoded/
+base_decoded/
+check_dex/
+extracted/
+mod_apks/
+mod_signed/
+mod.jks
+classes_new.dex
+base_mod.apk
+final/
